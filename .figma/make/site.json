@@ -1,7 +1,7 @@
 {
   "description": "An AI mentorship workspace for professionals and teams to clarify complex decisions, build expertise, and turn ideas into actionable roadmaps.",
   "robots": {
-    "index": false
+    "index": true
   },
   "accessibility": {
     "addBypassLinks": false,
