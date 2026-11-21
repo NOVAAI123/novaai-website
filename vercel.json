@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/((?!app-ads\\.txt|robots\\.txt).*)",
+      "destination": "/index.html"
+    }
+  ]
+}
