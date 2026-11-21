@@ -1,7 +1,7 @@
 {
   "rewrites": [
     {
-      "source": "/((?!app-ads\\.txt|robots\\.txt).*)",
+      "source": "/((?!app-ads\\.txt|robots\\.txt|.*\\.(?:png|jpg|jpeg|gif|svg|ico|webp|woff|woff2|ttf|css|js|json|txt)).*)",
       "destination": "/index.html"
     }
   ]
